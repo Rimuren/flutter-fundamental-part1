@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 
 class MyImageWidget extends StatelessWidget {
-  const MyImageWidget({super.key});
+  const MyImageWidget(String s, {super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const Image(
-      image: AssetImage("assets/logo.jpg")
-    );
+    return Image.asset('assets/logo.png'); // Memastikan path diambil dari parameter
   }
 }
