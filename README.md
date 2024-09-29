@@ -2,37 +2,26 @@
 
 A new Flutter project.
 
-1
+praktikum 1 :
+pada praktikum 1 ini kita membuat project flutter baru dengan memilih jenis project nya, dan memilih membuat folder simpan di local
+praktikum 2 :
+pada praktikum 2 kita diharuskan untuk login ke github agar dapat melakukan commit dan membuat repo baru, lalu menjalankan command 'git init', lalu kita mengunggah file pertama kedalam repo github dan menambahkan pesan commit, lalu lakukan push dan menambah remote.
+praktikum 3 :
+pada praktikum 3 ini kita menambahkan fungsi-fungis kedalam file main.dart dan file lainnya, disini kita menerapkan widget dasar
+praktikum 4 :
+pada praktikum 4 kita Menerapkan Widget Material Design dan iOS Cupertino(Cupertino Button dan Loading Bar, Floating Action Button (FAB), Scaffold Widget, Dialog Widget, Input dan Selection Widget, Date and Time Pickers)
+
+
 ![Screenshot hello_world](images/01.png)
-
-2
 ![Screenshot hello_world](images/02.png)
-
-3
 ![Screenshot hello_world](images/03.png)
-
-4
 ![Screenshot hello_world](images/04.png)
-
-5
 ![Screenshot hello_world](images/05.png)
-
-6
 ![Screenshot hello_world](images/06.png)
-
-7
 ![Screenshot hello_world](images/07.png)
-
-8
 ![Screenshot hello_world](images/08.png)
-
-9
 ![Screenshot hello_world](images/09.png)
-
-10
 ![Screenshot hello_world](images/10.png)
-
-11
 ![Screenshot hello_world](images/11.png)
 
 ## Getting Started
